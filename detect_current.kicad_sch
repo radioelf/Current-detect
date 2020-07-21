@@ -10,7 +10,7 @@
     (rev "0.0.1")
     (company "Radioelf")
   )
-
+  
   (lib_symbols
     (symbol "Amplifier_Operational:LM358" (pin_names (offset 0.127))
       (property "Reference" "U" (id 0) (at 0 5.08 0)
