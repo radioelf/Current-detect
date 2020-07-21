@@ -3,7 +3,7 @@
   (page 1 1)
 
   (paper "A4")
-
+  
   (title_block
     (title "Detection AC corrent")
     (date "2020-05-30")
