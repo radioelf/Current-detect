@@ -1,5 +1,5 @@
 # Current-detect
-Deteción de corriente electrica (consumo de una carga)
+Deteción de corriente electrica (consumo de una carga), KICAD Version: 5.99.0, release build
 
 Creative Commons License Disclaimer
 
